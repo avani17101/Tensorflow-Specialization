@@ -1,2 +1,4 @@
 # Tensorflow-Specialization
-Various models like Inception VGG, Inception v3 etc trained in Tensoflow.
+Various models like VGG, Inception network, ResNet, Siamese Network trained in Tensoflow.
+
+Part of Tensorflow Specialization by DeepLearning.ai offered on Coursera.
